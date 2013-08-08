@@ -17,3 +17,10 @@ Plagin use example
         <fork>true</fork>
     </configuration>
 </plugin>
+
+<dependency>
+    <groupId>com.degas.plugins</groupId>
+    <artifactId>javac2-maven-plugin</artifactId>
+    <version>3.0</version>
+    <scope>provided</scope>
+</dependency>
